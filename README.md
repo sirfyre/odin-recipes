@@ -1,2 +1,1 @@
-This is my first Webpage about some Recipes.
-created with the odin project
+This is my first toy Webpage about some random Recipes.
